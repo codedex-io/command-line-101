@@ -17,7 +17,7 @@ Welcome to [the Command Line](https://www.codedex.io/command-line) GitHub repo! 
 - [house-tour.sh](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/04-house-tour.sh)
 - [clean-slate.sh](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/05-clean-slate)
 
-## Manipulation
+## 🛠️ Manipulation
 
 - [recipes.sh](https://github.com/codedex-io/command-line-101/blob/main/2-manipulation/07-recipes.sh)
 - [cuisine-type.sh](https://github.com/codedex-io/command-line-101/blob/main/2-manipulation/08-cuisine-type.sh)
