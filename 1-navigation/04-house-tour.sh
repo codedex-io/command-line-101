@@ -4,8 +4,8 @@
 cd kitchen
 ls
 cd fridge
-cat fridge-items.txt 
+cat items.txt 
 cd ..
 cd pantry
-cat pantry-items.txt
+cat items.txt
 cd ../..
