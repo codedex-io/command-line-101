@@ -15,7 +15,7 @@ Welcome to [the Command Line](https://www.codedex.io/command-line) GitHub repo! 
 - [`filesystem.sh`](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/02-filesystem.sh)
 - [`moving-day.sh`](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/03-moving-day.sh)
 - [`house-tour.sh`](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/04-house-tour.sh)
-- [`clean-slate.sh`](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/05-clean-slate)
+- [`clean-slate.sh`](https://github.com/codedex-io/command-line-101/blob/main/1-navigation/05-clean-slate.sh)
 
 ## 🛠️ Manipulation
 
