@@ -1,8 +1,8 @@
 # Codédex
 # Moving Day 🚛
 
-# Make sure to download and unzip this file first: https://github.com/codedex-io/command-line-101/archive/refs/heads/main.zip
+# Make sure to download and unzip this file first: https://drive.google.com/u/0/uc?id=1pQ0gfmyBeSIZ-27W-_DB-GFGOfWOLsNW&export=download
 
-cd command-line-101
+cd Desktop
 cd house
 ls
