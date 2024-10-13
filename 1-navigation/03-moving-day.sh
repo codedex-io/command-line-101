@@ -5,4 +5,3 @@
 
 cd command-line-101
 cd house
-ls
